@@ -1,3 +1,15 @@
-td {
-    color: blue;
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+td{
+    background-color: aquamarine;
+}
+
+.td1{
+    padding: 10px;
+}
+
+img{
+    width: 250px;
 }
